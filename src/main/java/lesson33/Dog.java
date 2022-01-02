@@ -1,4 +1,4 @@
-package lesson34;
+package lesson33;
 
 public class Dog implements Pet{
 

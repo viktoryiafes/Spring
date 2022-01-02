@@ -1,4 +1,4 @@
-package lesson34;
+package lesson33;
 
 public class Person {
     private Pet pet;
